@@ -1,17 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sneha Rajput</h1>
 <h3 align="center">🌸 Aspiring Front-End Developer | Passionate Learner</h3>
 
-<img align="right" margin-top="100" alt="Coding Girl" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
----
+<table>
+<tr>
+<td>
 
 ### 🚀 About Me
 
-- 🎓 I recently began my journey in tech with *HTML* and *CSS*
-- 🌱 I’m currently learning *JavaScript*
-- 🤝 I'm looking to *collaborate on front-end web development projects*
-- 🎯 Open to *internship opportunities* in web development
-- 📬 Reach me at: *sneharajput0203@gmail.com*
+- 🎓 I recently began my journey in tech with HTML and CSS  
+- 🌱 I’m currently learning JavaScript  
+- 🤝 I'm looking to collaborate on front-end web development projects  
+- 🎯 Open to internship opportunities in web development  
+- 📬 Reach me at: sneharajput0203@gmail.com
+
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Girl" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
