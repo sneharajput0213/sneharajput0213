@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Rajput</h1>
 <h3 align="center">🌸 Aspiring Front-End Developer | Passionate Learner</h3>
 
-<img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding Girl" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
 
