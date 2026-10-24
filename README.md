@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi 👋, I'm Sneha Rajput</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack</h3>
 
