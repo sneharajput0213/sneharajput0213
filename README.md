@@ -80,7 +80,6 @@ A web application that analyzes resumes and provides AI-generated feedback.
 - Strengthening JavaScript and React fundamentals
 - Improving backend development and database skills
 - Practicing problem-solving and SQL
-- Preparing for full-stack developer interviews
 
 ---
 
