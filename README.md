@@ -1,66 +1,95 @@
+```html
 <h1 align="center">Hi 👋, I'm Sneha Rajput</h1>
-<h3 align="center">🌸 Aspiring Front-End Developer | Building & Learning Every Day</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack</h3>
 
 <p align="center">
-  💻 Passionate about creating clean & responsive web experiences  
+  B.Sc. IT graduate building web applications with React, Node.js, Express.js, and MongoDB.
   <br/>
-  🚀 Currently growing in JavaScript & React
+  Interested in full-stack development, backend systems, and building applications that solve real problems.
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🎓 Started my tech journey with **HTML & CSS**
-* 🌱 Currently learning **JavaScript & modern front-end development**
-* 💡 Interested in building real-world, user-friendly web apps
-* 🤝 Open to collaborating on **front-end projects**
-* 🎯 Actively looking for **Web Development Internship opportunities**
-* 📬 Reach me at: **[sneharajput0203@gmail.com](mailto:sneharajput0203@gmail.com)**
+- 🎓 B.Sc. Information Technology graduate from the University of Mumbai
+- 💻 Working with the MERN stack to build full-stack web applications
+- 🛠️ Experience with REST APIs, JWT authentication, role-based access control, and payment integration
+- 📚 Currently improving my JavaScript, React, and backend development skills
+- 🎯 Looking for entry-level Full-Stack Developer and Software Developer opportunities
+- 📬 Reach me at **[sneharajput0203@gmail.com](mailto:sneharajput0203@gmail.com)**
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+
+**Tools & Deployment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,jest,vercel" />
 </p>
 
 ---
 
-## 🌟 What I'm Working On
+## Featured Projects
 
-* 🔨 Building real-world front-end projects
-* 📊 Creating responsive UI designs
-* 🧠 Strengthening JavaScript fundamentals
-* 🚀 Improving my GitHub & portfolio
+### 🛍️ Glowé — Multi-Vendor E-Commerce Platform
+
+A full-stack e-commerce application with separate customer, seller, and admin roles.
+
+- JWT authentication and role-based access control
+- Product management, cart, wishlist, reviews, and orders
+- PayU payment gateway integration and refund handling
+- Seller and admin dashboards with sales analytics
+- Redux Toolkit for state management and Jest for backend API testing
+
+**Tech:** React, Redux Toolkit, Node.js, Express.js, MongoDB, Tailwind CSS, PayU, Jest
+
+### 📄 AI Resume Analyzer
+
+A web application that analyzes resumes and provides AI-generated feedback.
+
+- PDF resume parsing and ATS scoring
+- Skill-gap analysis and job role recommendations
+- Groq API integration for resume feedback
+- Recruiter module with candidate and GitHub profile analysis
+
+**Tech:** React, Node.js, Express.js, MongoDB, Groq API
 
 ---
 
-## 📌 Featured Projects
+## Currently Focusing On
 
-* 💰 Smart Budget Tracker (Expense tracking app)
-* 🔐 Authentication UI (Login/Register system)
-* 📊 Dashboard UI Components
+- Strengthening JavaScript and React fundamentals
+- Improving backend development and database skills
+- Practicing problem-solving and SQL
+- Preparing for full-stack developer interviews
 
 ---
 
-## 📫 Let’s Connect
+## Let's Connect
 
-<p align="left">
+<p>
   <a href="mailto:sneharajput0203@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-## 🌱 Growth Mindset
-
-> "Every expert was once a beginner. I'm learning, building, and improving every single day."
+```
